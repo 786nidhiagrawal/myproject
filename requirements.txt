@@ -5,4 +5,11 @@ numpy
 Pillow
 scikit-learn
 tensorboard
+pandas 
+matplotlib
+numpy
+seaborn
+scikit-learn
+catboost
+xgboost
 -e .
